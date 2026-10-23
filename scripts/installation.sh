@@ -34,6 +34,7 @@ sudo pacman -S python-pylatexenc
 
 # Programming languages
 sudo pacman -S --needed --noconfirm python3
+sudo pacman -S --needed --noconfirm luarocks
 sudo pacman -S --needed --noconfirm g++
 sudo pacman -S --needed --noconfirm node
 
