@@ -7,16 +7,8 @@ return {
     legacy_commands = false, -- this will be removed in 4.0.0
     workspaces = {
       {
-        name = "personal",
-        path = "~/notebook/personal",
-      },
-      {
-        name = "work",
-        path = "~/notebook/work",
-      },
-      {
-        name = "generational lock in 2026",
-        path = "~/Projects/generation-lock-in-2026/",
+        name = "journalctl",
+        path = "~/Projects/jornalctl/",
       },
     },
   },
