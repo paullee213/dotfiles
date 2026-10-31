@@ -8,7 +8,7 @@ return {
     workspaces = {
       {
         name = "journalctl",
-        path = "~/Projects/jornalctl/",
+        path = "~/Projects/journalctl",
       },
     },
   },

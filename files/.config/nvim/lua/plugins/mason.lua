@@ -59,7 +59,6 @@ return {
         "texlab",
         "marksman",
         "ltex",
-        "latex",
         "ts_ls",
         "tailwindcss",
         "html",
